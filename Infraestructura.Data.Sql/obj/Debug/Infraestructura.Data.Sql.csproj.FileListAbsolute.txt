@@ -1,0 +1,7 @@
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\bin\Debug\Infraestructura.Data.Sql.dll
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\bin\Debug\Infraestructura.Data.Sql.pdb
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\bin\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.csprojResolveAssemblyReference.cache
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.dll
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Infraestructura.Data.Sql\obj\Debug\Infraestructura.Data.Sql.pdb

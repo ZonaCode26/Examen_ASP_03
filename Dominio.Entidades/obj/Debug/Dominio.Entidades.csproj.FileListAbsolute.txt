@@ -1,0 +1,5 @@
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Dominio.Entidades\bin\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Dominio.Entidades\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Dominio.Entidades\obj\Debug\Dominio.Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Dominio.Entidades\obj\Debug\Dominio.Entidades.dll
+C:\Users\Alex.ae\Desktop\Examen_Serv_Web_03\Web_Examen_03\Dominio.Entidades\obj\Debug\Dominio.Entidades.pdb
